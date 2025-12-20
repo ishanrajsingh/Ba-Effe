@@ -341,10 +341,10 @@ Most issues follow a **Bollywood / Filmy theme**. Your designs should:
 
 ## Resources
 
-- [**OpenCode Website**](https://events.geekhaven.in/) - Register here!
-- [**OpenCode Discord**]([https://discord.gg/opencode](https://discord.gg/Y45nZsND8)) - Join for support
-- [**GeekHaven Instagram**]([https://instagram.com/geekhaven](https://www.instagram.com/geekhaven_iiita/?hl=en)) - Stay updated
-- [**GeekHaven LinkedIn**]([https://linkedin.com/company/geekhaven](https://www.linkedin.com/company/geekhaven-iiita/posts/?feedView=all)) - Connect with us
+- [**OpenCode Website**](https://events.geekhaven.in/) — Register here!
+- [**OpenCode Discord**](https://discord.gg/Y45nZsND8) — Join for support
+- [**GeekHaven Instagram**](https://www.instagram.com/geekhaven_iiita/?hl=en) — Stay updated
+- [**GeekHaven LinkedIn**](https://www.linkedin.com/company/geekhaven-iiita/posts/?feedView=all) — Connect with us
 
 ## Recognition & Rewards
 
