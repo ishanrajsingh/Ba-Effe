@@ -156,7 +156,7 @@ Add a clear title and brief description. **Important:** First line must be `Issu
 
 Use whatever you're comfortable with:
 
-- Figma, Adobe Suite, Blender, Sketch, Adobe XD, or similar tools
+- Figma, Adobe Illustrator, Blender, Sketch, Adobe XD, or similar tools
 
 ---
 
